@@ -1,5 +1,6 @@
 import "core-js/stable";
 import "regenerator-runtime";
+import "./sass/main.scss";
 import * as model from "../js/model.js";
 import { MODAL_CLOSE_SEC } from "./config.js";
 import recipeView from "./views/recipeView.js";
